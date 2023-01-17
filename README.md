@@ -1,4 +1,9 @@
 # bad-snakes-icse23-artifacts
+
+# Authors
+Duc-Ly Vu, Zack Newman, John Speed Meyers
+
+
 The Artifacts for ICSE 2023 submission
 
 This repository contains the source code and data for the ICSE 2023 submission titled "Bad Snakes: Understanding and Improving Python Package Index Malware Scanning"

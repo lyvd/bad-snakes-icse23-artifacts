@@ -20,3 +20,27 @@ Please follow the instructions at the following links to install these Python ma
 - OSSGadget OSS Detect Backdoor: https://github.com/microsoft/OSSGadget/wiki/OSS-Detect-Backdoor
 - PyPI Malware Checks: https://github.com/pypi/warehouse/tree/main/warehouse/malware
 - Bandit4Mal: https://github.com/lyvd/bandit4mal
+
+You can cite the Artifact by the following Bibtex
+
+@software{ly_vu_duc_2023_7578941,
+  author       = {Ly Vu Duc and
+                  Zack Newman and
+                  John Speed Meyers},
+  title        = {{Bad Snakes: Understanding and Improving Python 
+                   Package Index Malware Scanning}},
+  month        = jan,
+  year         = 2023,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.7578941},
+  url          = {https://doi.org/10.5281/zenodo.7578941}
+}
+
+Please consier citing out paper
+
+@inproceedings{vu2023bad,
+  title={Bad Snakes: Understanding and Improving Python Package Index Malware Scanning},
+  author={Vu, Duc-Ly and Newman, Zack  and Meyers, John Speed},
+  booktitle={Proceedings of the ACM/IEEE 45th International Conference on Software Engineering: Companion Proceedings},
+  year={2023}
+}
